@@ -1,5 +1,5 @@
 # my_world
-3D terrain generation and manipulation - A CSFML project designed for 1920 by 1080 screens.
+- A CSFML project written from scratch in C featuring 3D terrain generation and manipulation
 
 ![Screenshot from 2022-04-13 14-36-02](https://user-images.githubusercontent.com/48384807/163384425-682ad2ea-7659-4664-a484-cd8a3de00e46.png)
 
@@ -30,3 +30,7 @@ Controls:
     Increase/decrease pen size: Scroll Wheel (in editor)
     
     Increase/decrease pen strength: I/K
+
+
+> [!NOTE]
+> This project is no longer being maintained, but any improvements are welcome.
